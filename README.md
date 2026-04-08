@@ -1,1 +1,18 @@
-# ishwari-satpute
+👋 Hi, I’m Ishwari Satpute (@satpute-ishwari)
+
+👀 I’m interested in learning, problem-solving, and gaining knowledge through collaboration
+🌱 Currently learning Data Structures & Algorithms (DSA) and Full-Stack Development
+💻 Technologies & Concepts I Know:
+Backend: Spring Boot, Node.js, Express, JPA, Hibernate
+Frontend: React.js, HTML, CSS
+Cybersecurity: Network Security, Threat Analysis, Secure Coding  
+AI/ML: Machine Learning
+Database: MySQL, MongoDB
+Core CS: Operating Systems, Linux, Networking
+🤝 Open to collaborating on backend, full-stack, and ML-based projects
+
+📫 Connect With Me
+
+🌐 Portfolio: https://ishwari-satpute.vercel.app/
+💼 LinkedIn: www.linkedin.com/in/ishwari-satpute  
+📧 Email: ishwarisatpute451@gmail.com  
